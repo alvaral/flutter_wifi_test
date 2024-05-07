@@ -15,6 +15,7 @@ dependencies:
   cupertino_icons: ^1.0.2
   universal_io: ^2.2.2
   wifi_scan: ^0.4.1
+  wifi_iot: ^0.3.19
 
 
 dev_dependencies:
